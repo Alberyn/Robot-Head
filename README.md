@@ -88,7 +88,7 @@ void loop(){
 ### Тестирование
 
 GIF симуляция работы манипулятора:
-![8](pictures/Robot.gif)\
+![8](Image/Robot.gif)\
 
 Видео работы насадки и манипулятора:\
-[![9](https://github.com/Alberyn/Robot-Head/assets/78211591/9629cb8c-3e5f-403e-9031-26f50162d44c)
+[![Презентация](https://github.com/Alberyn/Robot-Head/assets/78211591/9629cb8c-3e5f-403e-9031-26f50162d44c)
